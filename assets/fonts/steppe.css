@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "steppe-book";
+    src: local("Steppe"), url(./Steppe-Book.ttf) format("truetype");
+    font-weight: 350;
+}
+
+@font-face {
+    font-family: "steppe-extrabold";
+    src: local("Steppe"), url(./Steppe-ExtraBold.ttf) format("truetype");
+    font-weight: 800;
+}
